@@ -19,7 +19,7 @@ Navigate to the project folder.
 
 Run the following command:
 dotnet run
-This will start the application, and it will be available at http://localhost:5000.
+This will start the application.
 
 2. Create a Rental
 To create a new rental, send a POST request to /rentals with the following data:
